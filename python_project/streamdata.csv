@@ -1,4 +1,5 @@
-I-74 NB from 12th Ave to 7th Ave,operational
+I-74 NB from Ave of the Cities t,operational
+I-74 NB from 12th Ave to 7th Ave,failed
 I-74 NB from 7th Ave to 4th Ave,operational
 I-74 NB from 4th Ave to 1st Ave,operational
 I-74 NB from 1st Ave to Toll Pla,operational
@@ -6,14 +7,14 @@ I-74 NB from Toll Plaza to South,operational
 I-74 NB from South Tower to Nort,failed
 I-74 NB from North Tower to Isle,operational
 I-74 NB from Isle Park to Holmes,operational
-I-74 NB from Lincoln to Middle,operational
+I-74 NB from Lincoln to Middle,failed
 I-74 NB from Spruce Hills to Cro,operational
 I-74 NB from Middle to Spruce Hi,operational
 I-74 SB from 46th to Kimberly,operational
 I-74 NB from Crow Creek to 53rd,operational
 I-74 SB from 53rd to 46th,operational
 I-74 SB from Kimberly to Middle,operational
-I-74 SB from Middle to Lincoln,operational
+I-74 SB from Middle to Lincoln,failed
 I-74 SB from Holmes to Isle Park,operational
 I-74 SB from Isle Parkway to Nor,failed
 I-74 SB from North Tower to Sout,operational
@@ -21,7 +22,7 @@ I-74 SB from South Tower to Toll,operational
 I-74 SB from Toll Plaza to 1st A,operational
 I-74 SB from 1st Ave to 4th Ave,operational
 I-74 SB from 4th Ave to 7th Ave,operational
-I-74 SB from 7th Ave to 12th Ave,operational
+I-74 SB from 7th Ave to 12th Ave,failed
 I-74 SB from 12th Ave to Ave of ,operational
 I-74 NB from Holmes to Lincoln,operational
 I-74 SB from Lincoln to Holmes,operational
@@ -262,8 +263,8 @@ CBDS 49 NB,operational
 CBDS 49 SB,operational
 CBDS50 - I-29 NB @ Old Mormon Br,operational
 CBDS50 - I-29 SB @ I-680 WB Off ,operational
-CBDS 51 EB,operational
-CBDS 51 WB,operational
+CBDS 51 EB,failed
+CBDS 51 WB,failed
 CBDS 21 WB,operational
 CBDS 21 EB,operational
 CBDS 20 WB,operational
@@ -315,7 +316,7 @@ CBDS 19 NB to I-80 WB,operational
 CBDS 35 SB ramp from I-480 EB,operational
 CBDS 36 WB Ramp from I-29 SB,operational
 CBDS 37 NB Ramp from I-480,operational
-CBDS 51 EB Off Ramp to I-29 SB,operational
+CBDS 51 EB Off Ramp to I-29 SB,failed
 CBDS 35 SB,operational
 CBDS 16 EB Thru to I-29 SB,operational
 CBDS 17 WB from I-29 NB,off
@@ -365,7 +366,7 @@ CBDS 61 I-80 WB,operational
 CBDS 61 I-80 EB,operational
 CBDS 35 NB                      ,operational
 CBDS 38 SB Off Ramp,operational
-CBDS 51 WB On Ramp from I-29 SB,operational
+CBDS 51 WB On Ramp from I-29 SB,failed
 CBDS50 - I-29 NB On Ramp @ Old M,operational
 CBDS50 - I-29 SB Off Ramp @ I-68,operational
 CBDS71 - I-80 EB Off Ramp @ I-29,operational
@@ -429,48 +430,48 @@ I-380 NB South of 76th Ave. to 6,off
 I-380 SB 66th Ave. to South of 7,off
 I-380 NB 66th Ave. to US 30,off
 I-380 SB US 30 to 66th Ave.,off
-I-380 WLDS-14 SB,operational
-I-380 WLDS-15 SB,operational
-I-380 WLDS-12 SB,operational
-I-380 to US-20 WLDS-12 SB,operational
-I-380 WLDS-11 SB,operational
-I-380 WLDS-10 SB,operational
-I-380 WLDS-09 SB,operational
-I-380 WLDS-08 SB,operational
-I-380 WLDS-07 SB,operational
-US-20 WLDS-06 EB,operational
-I-380 WLDS-05 SB,operational
-US-20 WLDS-04 EB,operational
-US-20 WLDS-03 EB,operational
-US-20 WLDS-02 EB,operational
-US-20 WLDS-01 EB,operational
-US-20 WLDS-01 WB,operational
-US-20 WLDS-02 WB,operational
-US-20 WLDS-03 WB,operational
-US-20 WLDS-04 WB,operational
-US-20 WLDS-06 WB,operational
-I-380 WLDS-07 NB,operational
-I-380 WLDS-08 NB,operational
-I-380 WLDS-09 NB,operational
-I-380 WLDS-10 NB,operational
-I-380 WLDS-11 NB,operational
-I-380 WLDS-13 NB,operational
-US-20 to I-380 WLDS-13 NB,operational
-I-380 WLDS-14 NB,operational
-I-380 WLDS-15 NB,operational
+I-380 WLDS-14 SB,failed
+I-380 WLDS-15 SB,failed
+I-380 WLDS-12 SB,failed
+I-380 to US-20 WLDS-12 SB,failed
+I-380 WLDS-11 SB,failed
+I-380 WLDS-10 SB,failed
+I-380 WLDS-09 SB,failed
+I-380 WLDS-08 SB,failed
+I-380 WLDS-07 SB,failed
+US-20 WLDS-06 EB,failed
+I-380 WLDS-05 SB,failed
+US-20 WLDS-04 EB,failed
+US-20 WLDS-03 EB,failed
+US-20 WLDS-02 EB,failed
+US-20 WLDS-01 EB,failed
+US-20 WLDS-01 WB,failed
+US-20 WLDS-02 WB,failed
+US-20 WLDS-03 WB,failed
+US-20 WLDS-04 WB,failed
+US-20 WLDS-06 WB,failed
+I-380 WLDS-07 NB,failed
+I-380 WLDS-08 NB,failed
+I-380 WLDS-09 NB,failed
+I-380 WLDS-10 NB,failed
+I-380 WLDS-11 NB,failed
+I-380 WLDS-13 NB,failed
+US-20 to I-380 WLDS-13 NB,failed
+I-380 WLDS-14 NB,failed
+I-380 WLDS-15 NB,failed
 I-80 OXDS01 WB,operational
 I-80 OXDS02 WB,operational
 I-80 OXDS03 WB,operational
 I-80 OXDS03 EB,operational
 I-80 OXDS02 EB,operational
 I-80 OXDS01 EB,operational
-I-380 WLDS-17 NB,operational
-I-380 WLDS-17 SB,operational
+I-380 WLDS-17 NB,failed
+I-380 WLDS-17 SB,failed
 I-380 WLDS-18 NB,operational
 I-380 WLDS-18 SB,operational
-I-380 WLDS-16 NB,operational
-I-380 WLDS-16 SB,operational
-I-380 WLDS-16 SB Ramp,operational
+I-380 WLDS-16 NB,failed
+I-380 WLDS-16 SB,failed
+I-380 WLDS-16 SB Ramp,failed
 I-380 IWZ 4019 SB,off
 I-380 IWZ 4018 SB,off
 I-380 IWZ 4046 SB,off
@@ -519,7 +520,7 @@ US 30 EB @ MP 148.1,operational
 US 30 EB @ US 69,operational
 US 30 EB @ MP 148.7,operational
 US 30 EB @ S Dayton Ave,operational
-US 30 EB @ I-35,operational
+US 30 EB @ I-35,failed
 US 30 EB @ MP 152,operational
 US 30 EB @ 580th Ave,operational
 US 30 EB @ 600th Ave,operational
@@ -532,7 +533,7 @@ US 30 WB @ County Highway S14,operational
 US 30 WB @ 600th Ave,operational
 US 30 WB @ 580th Ave,operational
 US 30 WB @ MP 152,operational
-US 30 WB @ I-35,operational
+US 30 WB @ I-35,failed
 US 30 WB @ S Dayton Ave,operational
 US 30 WB @ MP 148.7,operational
 US 30 WB @ US 69,operational
@@ -550,7 +551,7 @@ US 30 WB @ MP 135.5,operational
 I-35 SB @ County Highway E29,operational
 I-35 SB @ E 13th St,operational
 I-35 SB @ E Lincoln Way,operational
-I-35 SB @ US 30 North,operational
+I-35 SB @ US 30 North,failed
 I-35 SB @ US 30 South,operational
 I-35 SB S of US 30,operational
 I-35 SB @ County Rd E57,operational
@@ -575,7 +576,7 @@ I-35 NB @ MP 107.8,operational
 I-35 NB @ County Rd E57,operational
 I-35 NB S of US 30,operational
 I-35 NB @ US 30 South,operational
-I-35 NB @ US 30 North,operational
+I-35 NB @ US 30 North,failed
 I-35 NB @ E Lincoln Way,operational
 I-35 NB @ E 13th St,operational
 I-35 NB @ County Highway E29,operational
@@ -609,8 +610,8 @@ I-35 @ 360th St NB,off
 I-35 @ 360th St SB,off
 I-35 @ 380th St NB,off
 I-35 @ 380th St SB,off
-I-35 NB Off Ramp US-30 WB,operational
-I-35 NB On Ramp US-30 WB        ,operational
+I-35 NB Off Ramp US-30 WB,failed
+I-35 NB On Ramp US-30 WB        ,failed
 PEEK TEST                       ,operational
 US 30 WB @ MP 142 On Ramp LL    ,operational
 US 30 WB @ MP 147.2 Exit Ramp,operational
@@ -1025,10 +1026,10 @@ I-35 NB at I-235 EB EXIT-NB,off
 I-35 NB at I-235 EB EXIT-SB,off
 I-35 NB at I-235 EB EXIT-NB-R,off
 I-35 NB at I-235 EB EXIT-SB-R,off
-I-80 EB at I-35 SB EXIT-EB,operational
-I-80 EB at I-35 SB EXIT-WB,operational
-I-80 EB at I-35 SB EXIT-EB-R,operational
-I-80 EB at I-35 SB EXIT-WB-R,operational
+I-80 EB at I-35 SB EXIT-EB,failed
+I-80 EB at I-35 SB EXIT-WB,failed
+I-80 EB at I-35 SB EXIT-EB-R,failed
+I-80 EB at I-35 SB EXIT-WB-R,failed
 I-80 EB at JORDAN CRK PKWY-EB,operational
 I-80 EB at JORDAN CRK PKWY-WB,operational
 I-80 EB at JORDAN CRK PKWY-EB-R,operational
@@ -1164,7 +1165,7 @@ I-80 IWZ 4071 EB_2,off
 IWZ 4033 Ramp,off
 I-80 EB ramp to I-35 SB West Mix,operational
 I-80 EB ramp to I-80/35 EB/NB We,operational
-I-80/35 EB/NB Ramp from West Mix,failed
+I-80/35 EB/NB Ramp from West Mix,operational
 I-235 EB @ Sign Truss           ,operational
 IWZ3062 - I-80 WB @ MM 177.00,off
 IWZ3062 - I-80 EB @ MM 177.00,off
