@@ -12,7 +12,7 @@ z = root.getchildren()[2].getchildren()[0].getchildren()[3].getchildren()
 
 length = len(z)
 
-# get all detectors
+f = open('streamdata.csv','w')
 
 for i in range (1,length):
 	x = root.getchildren()[2].getchildren()[0].getchildren()[3].getchildren()[i]
