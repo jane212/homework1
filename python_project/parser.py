@@ -8,12 +8,13 @@ tree = ET.parse("stream.xml")
 
 root = tree.getroot()
 
-f = open('streamdata.csv','w')
+z = root.getchildren()[2].getchildren()[0].getchildren()[3].getchildren()
 
-for i in range (1,100):
-	z = root.getchildren()[2].getchildren()[0].getchildren()[3].getchildren()[i]
-	content = z.getchildren()[0].text+","+z.getchildren()[1].text+"\n"
-	f.write(content)
+length = len(z)
 
+# get all detectors
 
-f.close()
+for i in range (1,length):
+	x = root.getchildren()[2].getchildren()[0].getchildren()[3].getchildren()[i]
+	print x.getchildren()[0].text, "|", x.getchildren()[1].text
+
